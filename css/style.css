@@ -1050,13 +1050,22 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 30px;
   float: left;
   width: 100%;
-  vertical-align: middle;
+  vertical-align: bottom;
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
   *display: inline;
 }
-
+/*.partner-logo-2 {*/
+  /*margin-bottom: 30px;*/
+  /*float: left;*/
+  /*width: 100%;*/
+  /*vertical-align: top;*/
+  /*!*display: -moz-inline-stack;*!*/
+  /*!*display: inline-block;*!*/
+  /*zoom: 1;*/
+  /*!**display: inline;*!*/
+/*}*/
 .section-heading {
   float: left;
   width: 100%;
