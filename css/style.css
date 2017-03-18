@@ -48,17 +48,17 @@ h1, h2, h3, h4, h5, h6 {
 
 ::-webkit-selection {
   color: #fff;
-  background: #00ADB5;
+  background: #FA5555;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #00ADB5;
+  background: #FA5555;
 }
 
 ::selection {
   color: #fff;
-  background: #00ADB5;
+  background: #FA5555;
 }
 
 #fh5co-header {
@@ -193,11 +193,11 @@ h1, h2, h3, h4, h5, h6 {
   background-color: transparent;
 }
 #fh5co-header #navbar li.call-to-action a.sign-up {
-  border: 2px solid #00ADB5;
-  background: #00ADB5;
+  border: 2px solid #FA5555;
+  background: #FA5555;
 }
 #fh5co-header #navbar li.call-to-action a.sign-up:hover {
-  background: #00ADB5;
+  background: #FA5555;
   color: #fff;
 }
 #fh5co-header #navbar li.call-to-action a.log-in {
@@ -313,11 +313,11 @@ h1, h2, h3, h4, h5, h6 {
   background-color: transparent;
 }
 #fh5co-header.navbar-fixed-top #navbar li.call-to-action a.sign-up {
-  border: 2px solid #00ADB5;
-  background: #00ADB5;
+  border: 2px solid #FA5555;
+  background: #FA5555;
 }
 #fh5co-header.navbar-fixed-top #navbar li.call-to-action a.sign-up:hover {
-  background: #00ADB5;
+  background: #FA5555;
   color: #fff;
 }
 #fh5co-header.navbar-fixed-top #navbar li.call-to-action a.log-in {
@@ -440,8 +440,8 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #fh5co-home .text-inner .call-to-action a.download {
-  border: 2px solid #00ADB5;
-  background: #00ADB5;
+  border: 2px solid #FA5555;
+  background: #FA5555;
   text-decoration: none !important;
 }
 
@@ -574,7 +574,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
 }
 #fh5co-testimony .wrap-testimony .testimony-slide span a.twitter {
-  color: #00ADB5;
+  color: #FA5555;
   font-weight: 300;
 }
 #fh5co-testimony .wrap-testimony .testimony-slide figure {
@@ -769,7 +769,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 #fh5co-pricing .price-box.popular {
-  border: 2px solid #00ADB5;
+  border: 2px solid #FA5555;
 }
 #fh5co-pricing .price-box.popular .popular-text {
   top: 0;
@@ -778,7 +778,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: -2em;
   position: absolute;
   padding: 4px 20px;
-  background: #00ADB5;
+  background: #FA5555;
   color: #fff;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -792,7 +792,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 50%;
   margin-left: -10px;
   border-top: 10px solid black;
-  border-top-color: #00ADB5;
+  border-top-color: #FA5555;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
 }
@@ -857,7 +857,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 0;
   font-size: 60px;
   color: rgba(0, 0, 0, 0.5);
-  color: #00ADB5;
+  color: #FA5555;
   z-index: 1;
 }
 .fh5co-services .box-services .icon span:before {
@@ -868,7 +868,7 @@ h1, h2, h3, h4, h5, h6 {
   content: '';
   width: 20px;
   height: 20px;
-  background: #00ADB5;
+  background: #FA5555;
   border: 2px solid #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -926,7 +926,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .core-features .grid2 .core-f .core i {
   float: left;
-  color: #00ADB5;
+  color: #FA5555;
   font-size: 28px;
 }
 .core-features .grid2 .core-f .core .fh5co-post {
@@ -1036,7 +1036,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .box-faq i {
   float: left;
-  color: #00ADB5;
+  color: #FA5555;
 }
 .box-faq .desc {
   padding-left: 40px;
@@ -1092,7 +1092,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   width: 7px;
   height: 7px;
-  background: #00ADB5;
+  background: #FA5555;
   left: -7px;
   margin-left: -20px;
   bottom: 6px;
@@ -1167,7 +1167,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 0;
   font-size: 22px;
-  color: #00ADB5;
+  color: #FA5555;
 }
 #fh5co-footer .social-media {
   margin: 0 0 30px 0;
@@ -1181,7 +1181,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 10px;
 }
 #fh5co-footer .social-media li a {
-  color: #00ADB5;
+  color: #FA5555;
 }
 #fh5co-footer .social-media li a:hover, #fh5co-footer .social-media li a:focus, #fh5co-footer .social-media li a:active {
   text-decoration: none;
@@ -1348,14 +1348,14 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 .btn.btn-primary {
-  background: #00ADB5;
+  background: #FA5555;
   color: #fff;
   border: none !important;
   border: 2px solid transparent !important;
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #00ADB5;
+  background: #FA5555;
 }
 .btn:hover, .btn:active, .btn:focus {
   background: #393e46 !important;
@@ -1516,7 +1516,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: transparent;
-  border: 2px solid #00ADB5;
+  border: 2px solid #FA5555;
 }
 
 /*# sourceMappingURL=style.css.map */
