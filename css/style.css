@@ -1170,11 +1170,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 .section-heading h2 span:after, .section-heading h2 span:before {
   content: "";
-  position: absolute;
-  display: block;
+  /*position: absolute;
+  display: block;*/
   width: 7px;
   height: 7px;
-  background: #FA5555;
+  /*background: #FA5555;*/
   left: -7px;
   margin-left: -20px;
   bottom: 6px;
