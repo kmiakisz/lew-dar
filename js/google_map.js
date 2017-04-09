@@ -10,7 +10,7 @@ function init() {
     
     var mapOptions = {
         // How zoomed in you want the map to start at (always required)
-        zoom: 13,
+        zoom: 12,
 
         // The latitude and longitude to center the map (always required)
         center: new google.maps.LatLng(53.13000, 23.15500),
@@ -32,7 +32,15 @@ function init() {
         53.12308,
         23.17698,
         2
-    ]
+    ],
+	["C.H. Zielone Wzgórze Carrefour",
+	53.1238293,
+	23.0964239
+	],
+	["C.H. Auchan",
+	53.1614828,
+	23.0963195
+	]
 ]
 
    
