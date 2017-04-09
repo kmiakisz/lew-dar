@@ -1613,3 +1613,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+/*
+*CUSTOMS
+*/
+#navbar-red-custom {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    list-style: none;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+}
+#my-custom-a {
+	line-height: 50px;
+	color:#f2f2f2;
+
+}
