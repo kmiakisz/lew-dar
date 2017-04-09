@@ -33,13 +33,15 @@ function init() {
         23.17698,
         2
     ],
-	["C.H. Zielone Wzgórze Carrefour",
-	53.1238293,
-	23.0964239
+	[
+		"C.H. Zielone Wzgórze Carrefour",
+		53.1238293,
+		23.0964239
 	],
-	["C.H. Auchan",
-	53.1614828,
-	23.0963195
+	[
+		"C.H. Auchan",
+		53.1614828,
+		23.0963195
 	]
 ]
 
